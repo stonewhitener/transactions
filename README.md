@@ -11,3 +11,8 @@
 
 * Scalable Atomic Visibility with RAMP Transactions (2016)
   * DOI: https://doi.org/10.1145/2909870
+
+## Benchmarking
+
+* Open Versus Closed: A Cautionary Tale (2006)
+  * https://www.usenix.org/conference/nsdi-06/open-versus-closed-cautionary-tale
