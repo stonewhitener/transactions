@@ -12,6 +12,18 @@
 * Scalable Atomic Visibility with RAMP Transactions (2016)
   * DOI: https://doi.org/10.1145/2909870
 
+## Consensus
+
+* The Part-time Parliament (1998)
+  * DOI: https://doi.org/10.1145/279227.279229
+* Fast Paxos (2006)
+  * DOI: https://doi.org/10.1007/s00446-006-0005-x
+
+## Concurrent Data Structures
+
+* Practical Lock-freedom (2004)
+  * DOI:	https://doi.org/10.48456/tr-579
+
 ## Benchmarking
 
 * Open Versus Closed: A Cautionary Tale (2006)
