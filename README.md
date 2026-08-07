@@ -4,6 +4,8 @@
 
 * Concurrency Control and Recovery in Database Systems (1987)
   * ISBN: 0201107155
+* Session Guarantees for Weakly Consistent Replicated Data (1994)
+  * DOI: https://doi.org/10.1109/PDIS.1994.331722
 * Weak Consistency: A Generalized Theory and Optimistic Implementations for Distributed Transactions (1999)
   * DOI: https://doi.org/1721.1/149899
 
