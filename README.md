@@ -20,6 +20,12 @@
   * DOI: https://doi.org/10.1145/279227.279229
 * Fast Paxos (2006)
   * DOI: https://doi.org/10.1007/s00446-006-0005-x
+* There is More Consensus in Egalitarian Parliaments (2013)
+  * DOI: https://doi.org/10.1145/2517349.2517350
+* On the Correctness of Egalitarian Paxos (2020)
+  * DOI: https://doi.org/10.1016/j.ipl.2019.105901
+* Making Democracy Work: Fixing and Simplifying Egalitarian Paxos (2025)
+  * DOI: https://doi.org/10.4230/LIPIcs.OPODIS.2025.22
 
 ## Concurrent Data Structures
 
