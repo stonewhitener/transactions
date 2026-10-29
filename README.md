@@ -13,6 +13,8 @@
 
 * Scalable Atomic Visibility with RAMP Transactions (2016)
   * DOI: https://doi.org/10.1145/2909870
+* Algebraic Laws for Weak Consistency (2017)
+  * DOI: https://doi.org/10.4230/LIPIcs.CONCUR.2017.26
 
 ## Consensus
 
